@@ -1,0 +1,12 @@
+/assets/
+/dependencies/
+*.exe
+*.dll
+*.pdb
+/tests/fixtures/
+/tests/run-*/
+/tests/ps2-iso-*/
+/tests/paint/
+/tests/render/
+/tests/last-run.txt
+__pycache__/
